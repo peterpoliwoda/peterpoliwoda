@@ -19,4 +19,4 @@ My latest areas of interest:
 - Automation / Continuous Integration / Continuous Delivery
 - Systems architecture
 
-I'd be happy to speak at your next conference or meetup. [Get in touch with me](https://twitter.com/peterpoliwoda) if you'd like to!
+I'd be happy to speak at your next conference or meetup. [Get in touch with me](https://twitter.com/peterpoliwoda) if you'd like to invite me!
