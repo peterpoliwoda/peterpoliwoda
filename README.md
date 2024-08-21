@@ -9,6 +9,7 @@ Join my quest for tech on *nix based machines, Node.js and web stuff and maybe y
 I'm involved in talks and speaking at various conferences and meetups throughout Ireland, Poland and the rest of Europe. I find it quite enjoyable!
 
 My latest areas of interest:
+- SwiftUI, SwiftData and iOS App Development
 - IBM Cloud (formerly known as Bluemix)
 - IBM Watson
 - Raspberry Pi / Arduino
